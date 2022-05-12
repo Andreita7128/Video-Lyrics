@@ -1,0 +1,48 @@
+Informe creado: 
+	11/05/2022	10:30:48 p. m.
+
+Nombre del proyecto: animatika Pre coro.aep
+
+Archivos de origen recopilados en: 
+	C:\Users\USUARIO\Desktop\U\Cuarto Semestre\D4D\Lyrics\Animatikas\Video-Lyrics\animatika Pre coro carpeta
+
+Archivos de origen recopilados: Todo
+
+Comp. recopiladas:  
+	Animatika Lyrics
+	20
+	21
+	22
+	23
+	24
+	25
+	es q
+	me puse
+	26
+	27
+	28
+	29
+	30
+	de los
+	
+Número de archivos recopilados: 12
+
+Tamaño de los archivos recopilados: 45,1 MB
+
+Archivos de origen recopilados: 
+	C:\Users\USUARIO\Desktop\U\Cuarto Semestre\D4D\Lyrics\Letra\20.ai
+	C:\Users\USUARIO\Desktop\U\Cuarto Semestre\D4D\Lyrics\Letra\21.ai
+	C:\Users\USUARIO\Desktop\U\Cuarto Semestre\D4D\Lyrics\Letra\22.ai
+	C:\Users\USUARIO\Desktop\U\Cuarto Semestre\D4D\Lyrics\Letra\23.ai
+	C:\Users\USUARIO\Desktop\U\Cuarto Semestre\D4D\Lyrics\Letra\24.ai
+	C:\Users\USUARIO\Desktop\U\Cuarto Semestre\D4D\Lyrics\Letra\25.ai
+	C:\Users\USUARIO\Desktop\U\Cuarto Semestre\D4D\Lyrics\Letra\26.ai
+	C:\Users\USUARIO\Desktop\U\Cuarto Semestre\D4D\Lyrics\Letra\27.ai
+	C:\Users\USUARIO\Desktop\U\Cuarto Semestre\D4D\Lyrics\Letra\28.ai
+	C:\Users\USUARIO\Desktop\U\Cuarto Semestre\D4D\Lyrics\Letra\29.ai
+	C:\Users\USUARIO\Desktop\U\Cuarto Semestre\D4D\Lyrics\Letra\30.ai
+	C:\Users\USUARIO\Desktop\U\Cuarto Semestre\D4D\Lyrics\Perreo Fino (RS Mix V3) [Mastered] (1).wav
+	
+Procesando plugins:
+	Cinema 4D
+	

@@ -1,0 +1,41 @@
+Informe creado: 
+	11/05/2022	10:31:14 p. m.
+
+Nombre del proyecto: animatika Coro.aep
+
+Archivos de origen recopilados en: 
+	C:\Users\USUARIO\Desktop\U\Cuarto Semestre\D4D\Lyrics\Animatikas\Video-Lyrics\animatika Coro carpeta
+
+Archivos de origen recopilados: Todo
+
+Comp. recopiladas:  
+	Animatika Lyrics
+	Perreo Fino
+	Pura selva
+	2
+	3
+	4
+	5
+	6
+	7
+	8
+	
+Número de archivos recopilados: 10
+
+Tamaño de los archivos recopilados: 86,2 MB
+
+Archivos de origen recopilados: 
+	C:\Users\USUARIO\Desktop\U\Cuarto Semestre\D4D\Lyrics\Letra\2.ai
+	C:\Users\USUARIO\Desktop\U\Cuarto Semestre\D4D\Lyrics\Letra\3.ai
+	C:\Users\USUARIO\Desktop\U\Cuarto Semestre\D4D\Lyrics\Letra\4.ai
+	C:\Users\USUARIO\Desktop\U\Cuarto Semestre\D4D\Lyrics\Letra\5.ai
+	C:\Users\USUARIO\Desktop\U\Cuarto Semestre\D4D\Lyrics\Letra\6.ai
+	C:\Users\USUARIO\Desktop\U\Cuarto Semestre\D4D\Lyrics\Letra\7.ai
+	C:\Users\USUARIO\Desktop\U\Cuarto Semestre\D4D\Lyrics\Letra\8.ai
+	C:\Users\USUARIO\Desktop\U\Cuarto Semestre\D4D\Lyrics\lyrics animatika.ai
+	C:\Users\USUARIO\Desktop\U\Cuarto Semestre\D4D\Lyrics\Perreo Fino (RS Mix V3) [Mastered] (1).wav
+	C:\Users\USUARIO\Desktop\U\Cuarto Semestre\D4D\Lyrics\Storyboard\def\storyboard-05.png
+	
+Procesando plugins:
+	Cinema 4D
+	

@@ -1,0 +1,45 @@
+Informe creado: 
+	11/05/2022	10:32:02 p. m.
+
+Nombre del proyecto: animatika Verso 2.aep
+
+Archivos de origen recopilados en: 
+	C:\Users\USUARIO\Desktop\U\Cuarto Semestre\D4D\Lyrics\Animatikas\Video-Lyrics\animatika Verso 2 carpeta
+
+Archivos de origen recopilados: Todo
+
+Comp. recopiladas:  
+	Animatika Lyrics
+	31
+	32
+	34
+	33
+	35
+	36
+	37
+	38
+	39
+	Te vi en el fondo
+	39.1
+	
+Número de archivos recopilados: 12
+
+Tamaño de los archivos recopilados: 46,2 MB
+
+Archivos de origen recopilados: 
+	C:\Users\USUARIO\Desktop\U\Cuarto Semestre\D4D\Lyrics\Letra\31.ai
+	C:\Users\USUARIO\Desktop\U\Cuarto Semestre\D4D\Lyrics\Letra\32.ai
+	C:\Users\USUARIO\Desktop\U\Cuarto Semestre\D4D\Lyrics\Letra\33.1.ai
+	C:\Users\USUARIO\Desktop\U\Cuarto Semestre\D4D\Lyrics\Letra\33.ai
+	C:\Users\USUARIO\Desktop\U\Cuarto Semestre\D4D\Lyrics\Letra\34.ai
+	C:\Users\USUARIO\Desktop\U\Cuarto Semestre\D4D\Lyrics\Letra\35.ai
+	C:\Users\USUARIO\Desktop\U\Cuarto Semestre\D4D\Lyrics\Letra\36.ai
+	C:\Users\USUARIO\Desktop\U\Cuarto Semestre\D4D\Lyrics\Letra\37.ai
+	C:\Users\USUARIO\Desktop\U\Cuarto Semestre\D4D\Lyrics\Letra\38.ai
+	C:\Users\USUARIO\Desktop\U\Cuarto Semestre\D4D\Lyrics\Letra\39.1.ai
+	C:\Users\USUARIO\Desktop\U\Cuarto Semestre\D4D\Lyrics\Letra\39.ai
+	C:\Users\USUARIO\Desktop\U\Cuarto Semestre\D4D\Lyrics\Perreo Fino (RS Mix V3) [Mastered] (1).wav
+	
+Procesando plugins:
+	Cinema 4D
+	
